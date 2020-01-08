@@ -1,14 +1,14 @@
 /* 1顶部 */
 .dobu {
     background-color: #2880e0;
-    /* background-image: url(../img-01/50.png);
+    /* background-image: url(../img/50.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 1920px 290px; */
     height: 30px;
     color: #fff;
     font-size: 15px;
-    /* background-image: url(../img-01/01.png); */
+    /* background-image: url(../img/01.png); */
     background-size: 1920px 290px;
 
     background-repeat: no-repeat;
@@ -52,7 +52,7 @@
 }
 
 .daohang {
-    background-image: url(../img-02/01.jpg);
+    background-image: url(../img/fond-01.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 1920px 670px;
@@ -229,7 +229,7 @@
 
 /* 3教室的背景图片 */
 .jiaoshi {
-    background-image: url(../img-02/02.jpg);
+    background-image: url(../img/fond-02.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 1920px 520px;
@@ -269,7 +269,7 @@
 
 /* <!-- 4特色 --> */
 .tese {
-    background-image: url(../img-02/04.jpg);
+    background-image: url(../img/fond-04.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 1920px 866px;

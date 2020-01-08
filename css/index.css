@@ -1791,7 +1791,7 @@ element.style {
     position: relative;
     margin-top: 156px;
     padding-top: 81px;
-    width: 1423px;
+    /* width: 1423px; */
     height: 238px;
     background-image: url(../img/16.png);
     background-repeat: no-repeat;
