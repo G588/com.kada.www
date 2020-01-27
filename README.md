@@ -1,2 +1,2 @@
 # com.mi.home
-米家html+css项目
+移动端项目：有道卡塔(仿)
