@@ -450,10 +450,11 @@ body {
 }
 
 .xinban-center-01 {
-    width: 180px;
+    margin-bottom: 23px;
+    width: 210px;
     height: 207px;
     float: left;
-    margin-right: 20px;
+    margin-right: 89px;
     background-color: #fff;
 }
 
@@ -513,7 +514,7 @@ body {
 .xinban-bottom {
     margin-top: 30px;
     height: 48px;
-    background-color: lightsalmon;
+    /* background-color: lightsalmon; */
 }
 
 .xinban-bottom span {
