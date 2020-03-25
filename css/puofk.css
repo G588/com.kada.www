@@ -467,7 +467,9 @@ body {
 .xinban-center-01-01 img {
     height: auto;
     max-width: 183px !important;
-    max-height: 137px !important;
+    max-height: 113px !important;
+    padding-left: 42px;
+    padding-top: 16px;
 }
 
 .xinban-center-01-02 {
@@ -508,6 +510,7 @@ body {
 .xinban-center-01-02 p {
     color: #000;
     font-size: 12px;
+    text-align: center;
 }
 
 /* 3.1.4.3新版的下部 */
